@@ -37,20 +37,43 @@ Other than the above requirements, you're encouraged to be creative and create s
 Above are the requirements for the project. For this week however, you'll need to create a plan for your project. More details are to come, but you'll need to create a pull request with the following:
 
 * The name of your project
+// Weather app
+
 * An elevator pitch (a paragraph about what your project does). Be sure to address:
-  * Who will use your project
-  * The value that your project will provide to the end user
+// My final project will be a weather app. It will have a search bar which a user can use to search the weather for a particular
+// city. The app will then show the weather in the specified city for the next 7 days. The user can click on any of these 7 days for a more /// detailed information on that day. I am also planning to create a feature where users can save their favorite cities. This weather app is /// targeted to everyone. It will provide the user with valuable weather information in the end.
+
 * [Wireframes](https://en.wikipedia.org/wiki/Website_wireframe) to help visualize what your project will look like
-  * These wireframes do not have to be high-fidelity. You're free to use boxes, hand drawings, tools such as Draw.io, etc.
+// A wireframe is provided in wireframe.png
+
 * A list of dependencies you'll be using for your project (npm modules, APIs, Firebase, etc.)
-  * This list will likely change as you work on your project, but listing your dependencies will help you visualize the complexity of the project
+// React
+// OpenWeather API (https://openweathermap.org/api)
+// Firestore
+// Firebase Authentication
+// React-Router
+// Prop-Types
+
 * A list of tasks that need to be completed for your project
-  * Example list of tasks for the Star Wars films example:
-    * Setup `create-react-app` scaffold
-    * Call the Star Wars API and print results
-    * Store API results in React component state
-    * Render React state
+// Setup create-react-app
+// Create a "card component" for basic weather info
+// Create component for detailed weather info
+// Setup router
+// Call the API to retrieve weather data
+// Render the components accordingly
+
 * A plan for the next 3 weeks and what you plan to accomplish each week
+// Week 1:
+// Finalize project idea
+// Imagine how my project will look and function in the end
+// Create the react app and start working
+
+// Week 2:
+// Continue working! This is when most of the work will be done!
+
+// Week 3:
+// Finish up
+// Testing
 
 ## Recommendations
 
